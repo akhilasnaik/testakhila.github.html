@@ -1,0 +1,22 @@
+
+
+  .container{
+  	background-color:#efeee7;
+  	font-weight: bold;
+  	}
+
+  	#main-bio
+  	{
+	font: "Georgia";
+  	}
+
+h1{
+background-color: black;
+}
+
+ #bio-image
+ {
+float: left;
+background: #333;
+
+ } 
